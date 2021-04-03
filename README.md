@@ -1,10 +1,17 @@
 Nasıl Kullanılır?
+
 1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
+
 2- İlk önce "load.exe" dosyasını çalıştır ve Driver'ı yükle.
+
 3- Driver başarılı bir şekilde yüklendikten sonra "lowuz injector.exe" çalıştır.
+
 4- "lowuz injector.exe" dosyasını çalıştırdığında spoofer otomatik başlayacak.
+
 5- Spoof işlemi tamamlandıktan sonra oyunu başlat.
+
 6- "Enjekte Edildi" yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
+
 7- Hile menüsü karşına gelecektir. İyi oyunlar.
 
 Hilenin yeni sürümünde spoofer eklenmiş, eş zamanlı olarak hileyi alıp kırdık ve spoofer ile birlikte size sunuyoruz. Ufak dump ve patch bilgisi olan arkadaşlar kaynak kodlarını alıp projelerinde kullanabilir (Injector ve Driver için de aynısı geçerli.)
