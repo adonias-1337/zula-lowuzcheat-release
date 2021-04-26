@@ -1,4 +1,4 @@
-Son Güncelleme: 07.04.2021 | Lowuz aracını güncellemeyi bıraktık, yeni projemize erişmek için Discord sunucumuza gelin.
+Son Güncelleme: 07.04.2021 | Lowuz aracı artık güncellemeleri almıyor.
 https://discord.gg/GHZUDauGwv
 
 
