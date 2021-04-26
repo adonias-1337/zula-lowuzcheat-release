@@ -1,4 +1,5 @@
-Son Güncelleme: 07.04.2021
+Son Güncelleme: 07.04.2021 | Lowuz aracını güncellemeyi bıraktık, yeni projemize erişmek için Discord sunucumuza gelin.
+https://discord.gg/GHZUDauGwv
 
 
 1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
