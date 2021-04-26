@@ -1,4 +1,3 @@
-Nasıl Kullanılır?
 Son güncelleme: 07.04.2021
 Durum: Detected
 https://discord.gg/GHZUDauGwv
