@@ -1,6 +1,5 @@
-Son güncelleme: 07.04.2021
-Durum: Detected
-https://discord.gg/GHZUDauGwv
+Son Güncelleme: 07.04.2021
+
 
 1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
 
@@ -25,4 +24,4 @@ Menü gelmiyorsa:
 
 NOT: Eğer sorunlarınızı çözemediyseniz Discord'dan ekleyebilirsiniz. 
 Yazmadan önce kanala abone olduğunuzun ekran görüntüsünü (fotoğrafını) gönderin aksi takdirde mesajlarınıza bakmıyorum.
-adomias#1555​​
+sparkles#1337​​
