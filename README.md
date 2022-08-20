@@ -1,5 +1,5 @@
-Son Güncelleme: 07.04.2021 | Lowuz aracı artık güncellemeleri almıyor.
-https://discord.gg/GHZUDauGwv
+Son Güncelleme: 20.08.2021 |
+discord: adonias#1337
 
 
 1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
@@ -25,4 +25,4 @@ Menü gelmiyorsa:
 
 NOT: Eğer sorunlarınızı çözemediyseniz Discord'dan ekleyebilirsiniz. 
 Yazmadan önce kanala abone olduğunuzun ekran görüntüsünü (fotoğrafını) gönderin aksi takdirde mesajlarınıza bakmıyorum.
-sparkles#1337​​
+adonias#1337 - liva aprea​​
